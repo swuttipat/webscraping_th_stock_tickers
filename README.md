@@ -15,6 +15,7 @@ Then save as excel file for further use.
 This project will get the target infomation 
 - Historical price
   - By request.get from https://finance.yahoo.com/
-  - Storage in excel file using name as its ticker name e.g. AOT.xlsx
+  - Storage in excel file using name as its ticker name e.g. AOT.xlsx in folder name prices
 - Financial Data
-- 
+  - <ins>Financial statement</ins> Storage in excel file using name as its ticker name e.g. AOT_fin_statement.xlsx in folder name Financials
+  - <ins>Financial statistic</ins> Storage in excel file using name as its ticker name e.g. AOT_fin_statement.xlsx in folder name Financials
